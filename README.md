@@ -14,6 +14,7 @@ The custom transformation function to get the vector V connecting the robot orig
   c (constant): Scaling factor to convert pixel coordinates to real-world units.
   v (Vector): Point in camera space.
 
+
 🔹 **Custom Inverse Kinematics:** Developed a geometric inverse kinematics solver for precise end-effector control, ensuring accurate movement along the maze path. This was achieved by constraining the last two joint angles, which are typically unnecessary for maintaining the end-effector’s downward orientation.
 
 🔹 **Custom URDF Model:** Designed and built a URDF file from scratch to accurately represent the 6-DOF robotic arm, enabling precise simulation and control.
