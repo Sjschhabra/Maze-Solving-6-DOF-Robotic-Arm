@@ -4,7 +4,7 @@ Solved a printed maze lying on a table with laser-mounted end-effector of a robo
 This project showcases a vision-based robotic arm solving a maze with precision using a custom inverse kinematics solver.
 
 🔹 **Computer Vision & Mapping:** Utilized OpenCV in Python to process live camera feed and applied linear algebra equations to accurately transform coordinates from camera space to robot space.
-amera-to-Robot Space Mapping: Developed a custom transformation function:
+The custom transformation function to get the vector V connecting the robot origin to the point under camera is:
 
           𝑉 = 𝑂 + 𝑐 ⋅ 𝑅 ⋅ 𝑣
 
