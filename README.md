@@ -1,6 +1,6 @@
 # Maze-Solving-6-DOF-Robotic-Arm
 Solved a printed maze lying on a table with laser-mounted end-effector of a robotic arm MyCobot 600 Pro
-
+[Video link](https://youtu.be/8pNSNreSBco)
 This project showcases a vision-based robotic arm solving a maze with precision using a custom inverse kinematics solver.
 
 🔹 **Computer Vision & Mapping:** Utilized OpenCV in Python to process live camera feed and applied linear algebra equations to accurately transform coordinates from camera space to robot space.
