@@ -1,9 +1,9 @@
 # Maze Solving-6-DOF-Robotic-Arm
 Solved a printed maze lying on a table with laser-mounted end-effector of a robotic arm MyCobot 600 Pro
 
-[Video link](https://youtu.be/8pNSNreSBco)
-[Maze_Solving](https://raw.githubusercontent.com/Sjschhabra/Maze-Solving-6-DOF-Robotic-Arm/refs/heads/main/media/Screenshot%202025-04-01%20150416.png)
-[Robot](https://raw.githubusercontent.com/Sjschhabra/Maze-Solving-6-DOF-Robotic-Arm/refs/heads/main/media/Screenshot%202025-03-12%20184611.png)
+![Video link](https://youtu.be/8pNSNreSBco)
+![Maze_Solving](https://raw.githubusercontent.com/Sjschhabra/Maze-Solving-6-DOF-Robotic-Arm/refs/heads/main/media/Screenshot%202025-04-01%20150416.png)
+![Robot](https://raw.githubusercontent.com/Sjschhabra/Maze-Solving-6-DOF-Robotic-Arm/refs/heads/main/media/Screenshot%202025-03-12%20184611.png)
 
 This project showcases a vision-based robotic arm solving a maze with precision using a custom inverse kinematics solver.
 
