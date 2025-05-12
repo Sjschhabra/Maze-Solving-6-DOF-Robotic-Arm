@@ -1,8 +1,7 @@
 # Maze Solving-6-DOF-Robotic-Arm
 Solved a printed maze lying on a table with laser-mounted end-effector of a robotic arm MyCobot 600 Pro
 
-### **Video Demonstration:
-[link](https://youtu.be/8pNSNreSBco)**
+### Video Demonstration: [link](https://youtu.be/8pNSNreSBco)
 
 ![Maze_Solving](https://raw.githubusercontent.com/Sjschhabra/Maze-Solving-6-DOF-Robotic-Arm/refs/heads/main/media/Screenshot%202025-04-01%20150416.png)
 ![Robot](https://raw.githubusercontent.com/Sjschhabra/Maze-Solving-6-DOF-Robotic-Arm/refs/heads/main/media/Screenshot%202025-03-12%20184611.png)
